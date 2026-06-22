@@ -15,10 +15,3 @@ prompt | llm | parser = clean, readable pipeline
 
 ## 😕 What was confusing
 - RunnableParallel output structure (nested dict)
-
-## 🎯 Tomorrow — Day 2
-- RAG pipeline fundamentals
-- Document loading, chunking, embedding, retrieval
-
-## 📁 Files
-- Revised LangChain basics notebook
