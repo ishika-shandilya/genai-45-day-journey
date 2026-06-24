@@ -46,7 +46,8 @@ experience to GenAI Developer, one concept at a time.
 | Day 0 | June 21 | Setup & environment | ✅ |
 | Day 1 | June 22 | How LLMs Work — Foundations | ✅ |
 | Day 2 | June 23 | Tokens · Embeddings · Attention · Transformers | ✅ |
-| Day 3 | June 24 | OpenAI API + Prompt Engineering | ⬅ next |
+| Day 3 | June 24 | OpenAI API + Prompt Engineering | ✅ |
+| Day 4 | June 25 | Embeddings + Vector Databases | ⬅ next |
 
 ---
 
