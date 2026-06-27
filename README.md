@@ -48,7 +48,6 @@ experience to GenAI Developer, one concept at a time.
 | Day 2 | June 23 | Tokens · Embeddings · Attention · Transformers | ✅ |
 | Day 3 | June 24 | OpenAI API + Prompt Engineering | ✅ |
 | Day 4 | June 26 | Embeddings + Vector Databases | ✅ |
-| Day 4 | June 25 | Embeddings + Vector Databases | ✅ |
 | Day 5 | June 26 | LangChain Fundamentals | ✅ |
 | Day 6 | June 27 | RAG Architecture Deep Dive | ⬅ next |
 ---
