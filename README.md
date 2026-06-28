@@ -49,7 +49,6 @@ experience to GenAI Developer, one concept at a time.
 | Day 3 | June 24 | OpenAI API + Prompt Engineering | ✅ |
 | Day 4 | June 26 | Embeddings + Vector Databases | ✅ |
 | Day 5 | June 26 | LangChain Fundamentals | ✅ |
-| Day 5 | June 27 | LangChain Fundamentals | ✅ |
 | Day 6 | June 28 | LangChain Memory | ✅ |
 | Day 7 | June 29 | RAG Architecture Deep Dive | ⬅ next |
 ---
