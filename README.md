@@ -50,7 +50,8 @@ experience to GenAI Developer, one concept at a time.
 | Day 4 | June 26 | Embeddings + Vector Databases | ✅ |
 | Day 5 | June 26 | LangChain Fundamentals | ✅ |
 | Day 6 | June 28 | LangChain Memory | ✅ |
-| Day 7 | June 29 | RAG Architecture Deep Dive | ⬅ next |
+| Day 7-8 | June 29-30 | LangChain Mastery (Revision) | ✅ |
+| Day 9 | July 1 | RAG Architecture Deep Dive | ⬅ next |
 ---
 
 *Follow along — I update this every night 🌙*
