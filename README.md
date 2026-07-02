@@ -51,7 +51,8 @@ experience to GenAI Developer, one concept at a time.
 | Day 5 | June 26 | LangChain Fundamentals | ✅ |
 | Day 6 | June 28 | LangChain Memory | ✅ |
 | Day 7-8 | June 29-30 | LangChain Mastery (Revision) | ✅ |
-| Day 9 | July 1 | RAG Architecture Deep Dive | ⬅ next |
+| Day 9 | July 1 | RAG Architecture Deep Dive | ✅ |
+| Day 10 | July 2 | Chunking Strategies + Retrieval | ⬅ next |
 ---
 
 *Follow along — I update this every night 🌙*
