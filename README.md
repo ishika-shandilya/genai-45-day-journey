@@ -54,7 +54,8 @@ experience to GenAI Developer, one concept at a time.
 | Day 9 | July 1 | RAG Architecture Deep Dive | ✅ |
 | Day 10 | July 2 | Chunking Strategies + Retrieval | ✅ |
 | Day 11 | July 3 | Full RAG Pipeline End-to-End | ✅ |
-| Day 12 | July 4 | Project 1 — Document Q&A Chatbot | ⬅ next |
+| Day 12 | July 4 | Project 1 — RBI Policy Analyser Started | ✅ |
+| Day 13 | July 5 | Project 1 — Complete + Deploy | ⬅ next |
 ---
 
 *Follow along — I update this every night 🌙*
