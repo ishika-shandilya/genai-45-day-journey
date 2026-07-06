@@ -14,7 +14,6 @@ This is the gap I'm building toward.
 ## 🎯 Tomorrow — Day 14
 - Complete RBI Policy Analyser code changes
 - Deploy on Streamlit Cloud
-- Full project reveal post
 
 ## 📁 Files
 - rbi-policy-analyser/ (in progress)
