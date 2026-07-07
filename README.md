@@ -57,7 +57,10 @@ experience to GenAI Developer, one concept at a time.
 | Day 12 | July 4 | Project 1 — RBI Policy Analyser Started | ✅ |
 | Day 13 | July 5 | Project 1 — Building Day 2 | ✅ |
 | Day 14 | July 6 | Project 1 — Building Day 3 | ✅ |
-| Day 15 | July 7 | Project 1 — Deploy + Full Reveal | ⬅ next |
+| Day 12 | July 4 | Project 1 — RBI Policy Analyser Started | ✅ |
+| Day 13 | July 5 | Project 1 — Building Day 2 | ✅ |
+| Day 14 | July 7 | Project 1 — Deployed 🚀 | ✅ |
+| Day 15 | July 8 | Advanced RAG + RAGAS Evaluation | ⬅ next |
 ---
 
 *Follow along — I update this every night 🌙*
