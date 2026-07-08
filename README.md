@@ -17,6 +17,16 @@ experience to GenAI Developer, one concept at a time.
 
 ---
 
+## 🚀 Projects Built
+
+| | Project | Stack | Status |
+|---|---|---|---|
+| 🏦 | **[RBI Policy Document Analyser](https://github.com/ishika-shandilya/rbi-policy-analyser)** | LangChain · FAISS · Gemini · Streamlit | ✅ Live |
+| 🤖 | **Agentic Market Research Assistant** | LangChain · LangGraph · Tavily | 🔨 Coming |
+| 📊 | **Economics × AI Tool** | LangChain · Ollama · LangGraph | 🔨 Coming |
+
+---
+
 ## 📁 Repo Structure
 
 | Folder | What's inside |
