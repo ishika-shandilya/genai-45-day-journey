@@ -59,8 +59,9 @@ experience to GenAI Developer, one concept at a time.
 | Day 14 | July 6 | Project 1 — Building Day 3 | ✅ |
 | Day 12 | July 4 | Project 1 — RBI Policy Analyser Started | ✅ |
 | Day 13 | July 5 | Project 1 — Building Day 2 | ✅ |
-| Day 14 | July 7 | Project 1 — Deployed 🚀 | ✅ |
-| Day 15 | July 8 | Advanced RAG + RAGAS Evaluation | ⬅ next |
+| Day 14 | July 6 | Project 1 — RBI Policy Analyser Deployed 🚀 | ✅ |
+| Day 15 | July 8 | RAGAS Evaluation — Research + Planning | ✅ |
+| Day 16 | July 9 | RAGAS Implementation on RBI Analyser | ⬅ next |
 ---
 
 *Follow along — I update this every night 🌙*
