@@ -72,7 +72,8 @@ experience to GenAI Developer, one concept at a time.
 | Day 14 | July 6 | Project 1 — RBI Policy Analyser Deployed 🚀 | ✅ |
 | Day 15 | July 8 | RAGAS Evaluation — Research + Planning | ✅ |
 | Day 16 | July 10 | Consistency Day — RAGAS tomorrow | ✅ |
-| Day 17 | July 11 | RAGAS Implementation | ⬅ next |
+| Day 17 | July 10-11 | RAGAS attempt — dependency broken, rebuilt manually | ✅ |
+| Day 18 | July 12 | Run custom eval, get real scores | ⬅ next |
 ---
 
 *Follow along — I update this every night 🌙*
