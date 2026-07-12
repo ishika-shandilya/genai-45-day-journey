@@ -73,7 +73,7 @@ experience to GenAI Developer, one concept at a time.
 | Day 15 | July 8 | RAGAS Evaluation — Research + Planning | ✅ |
 | Day 16 | July 10 | Consistency Day — RAGAS tomorrow | ✅ |
 | Day 17 | July 10-11 | RAGAS attempt — dependency broken, rebuilt manually | ✅ |
-| Day 18 | July 12 | Run custom eval, get real scores | ⬅ next |
+| Day 18 | July 12 | RAGAS attempt | ✅ |
 | Day 19 | July 13 | Run custom eval, get real scores | ⬅ next |
 ---
 
